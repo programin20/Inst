@@ -1,4 +1,5 @@
 x=int(input("X:"))
 y=int(input("Y:"))
-z=x+y
+r=int(input("R:"))
+z=x+y+r
 print(z)
