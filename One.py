@@ -4,3 +4,4 @@ r=int(input("R:"))
 z=x+y+r
 print(z)
 print('hello')
+print('hello 2')
