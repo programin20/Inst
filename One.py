@@ -5,3 +5,5 @@ z=x+y+r
 print(z)
 print('hello')
 print('hello 2')
+z=z/2
+
