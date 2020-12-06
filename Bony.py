@@ -1,10 +1,10 @@
 int main()
 {
-    int a, k, r;
+    int a, t, r;
     cout<<"input a=";
     cin>> a;
-    cout<<"inout k=" ;
+    cout<<"inout t=" ;
     cin>> k;
-    cin>> r=a+k;
+    cin>> r=a+t;
     }
     
