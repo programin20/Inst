@@ -2,7 +2,5 @@ x=int(input("X:"))
 y=int(input("Y:"))
 z=x+y
 print(z)
-print('hello')
-print('hello 2')
 z=z/2
-
+print('hi dream')
